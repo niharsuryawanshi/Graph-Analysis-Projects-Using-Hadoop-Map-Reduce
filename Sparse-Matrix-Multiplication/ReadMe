@@ -1,0 +1,13 @@
+Given a Large Sparse Matrix, Perform the multiplication using Hadoop Map Reduce.
+
+sample input:
+
+Matrix M:
+34,33,88.4
+43,44,-89.1
+
+Matrix N:
+43,41,34.32
+12,32,-89.0
+
+
